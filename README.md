@@ -15,7 +15,7 @@ scripts/index_search.py
 scripts/index_creation.py
 scripts/index_model_evaluation.py
 ```
-have to be added to the content folder along with the files mentioned before. It takes around 12 minutes to run the whole notebook on CPU. 
+have to be added to the content folder along with the files mentioned before. It takes around 12 minutes to run the whole notebook on CPU. In both cases it's enough to just run the notebook.
 
 ## Conclusions
 
